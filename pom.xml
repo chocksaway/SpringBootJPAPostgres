@@ -16,6 +16,8 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<!-- The main class to start by executing java -jar -->
+		<main-class>com.chocksaway.SpringJpaPostgreSqlApplication</main-class>
 	</properties>
 
 	<dependencies>
